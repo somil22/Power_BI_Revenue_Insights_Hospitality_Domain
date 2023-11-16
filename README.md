@@ -1,3 +1,3 @@
 # Power_BI_Revenue_Insights_Hospitality_Domain
 
-Atliq Grands hotel chain, recognizing the imperative for improved management decision-making due to declining market share, initiated a strategic project. Employing Power BI, we engaged in meticulous data modeling and preprocessing. Utilizing DAX, we crafted 26 key measures and derived 6 KPIs. The result revealed a consistent ADR, prompting a recommendation for a dynamic pricing strategy to enhance revenue.
+Atliq Grands hotel chain, acknowledging the necessity for enhanced management decision-making due to a decline in market share, initiated a strategic project. Using Power BI, meticulous data modeling and preprocessing were undertaken. Employing DAX, 26 key measures were crafted, and 6 KPIs were derived. The result revealed a consistent ADR, a primary factor contributing to the market share decline, prompting a recommendation for a dynamic pricing strategy to enhance revenue.
